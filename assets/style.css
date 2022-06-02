@@ -12,3 +12,13 @@ body{
     position: sticky;
     z-index: 100;
 }
+
+.card{
+    background: rgba(0, 0, 0, 0.119);
+    color: rgba(255, 255, 255, 0.007);
+}
+
+.card ul a{
+    float: right;
+    margin: 0 .3rem;
+}
