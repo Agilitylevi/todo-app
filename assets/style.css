@@ -1,0 +1,14 @@
+body{
+    background: url(/assets/img/pexels-olia-danilevich-4974914.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.navbar{
+    background: transparent !important;
+    position: sticky;
+    z-index: 100;
+}
